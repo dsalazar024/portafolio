@@ -22,8 +22,7 @@ Sitio web de portfolio personal desarrollado con React y TypeScript. Incluye sec
 - **react-tsparticles** — Efectos de partículas en el fondo
 - **animate.css** (CDN) — Clases de animación CSS
 
-### Analytics y despliegue
-- **@vercel/analytics** — Seguimiento de visitas
+### Despliegue
 - **Vercel** — Plataforma de despliegue recomendada
 
 ### Herramientas de desarrollo
