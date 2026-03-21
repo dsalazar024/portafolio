@@ -1,16 +1,12 @@
 import { Container } from "./styles";
-import dsalazar from "../../assets/dsalazar.jpg";
-import python from "../../assets/python.svg";
 import java from "../../assets/java.svg";
 import wordpress from "../../assets/wordpress.svg";
-import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";
 import jsIcon from "../../assets/js-icon.svg";
 // import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
-import vueIcon from "../../assets/vue-icon.svg";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
 import mongodbIcon from "../../assets/mongodb-icon.svg";
 import mysqlIcon from "../../assets/mysql-icon.svg";
